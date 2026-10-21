@@ -1,0 +1,23 @@
+Cas Awa avec budget 50000 :
+> node .\depenses.js
+
+Rapport de depenses pour Awa
+Budget : 50000FCFA
+Transport : 12500FCFA
+Alimentation : 18300 FCFA
+Loisirs : 7500FCFA
+Total : 38300FCFA
+Reste : 11700FCFA
+Budget respecté : true
+
+Variation budget 30000 :
+> node .\depenses.js
+
+Rapport de depenses pour Awa
+Budget : 30000FCFA
+Transport : 12500FCFA
+Alimentation : 18300 FCFA
+Loisirs : 7500FCFA
+Total : 38300FCFA
+Reste : -8300FCFA
+Budget respecté : false
