@@ -1,0 +1,38 @@
+partie1
+
+Âge : 11
+Prix du billet : 1500 FCFA
+Âge : 12
+Prix du billet : 1500 FCFA
+Âge : 13
+Prix du billet : 1500 FCFA
+Âge : 14
+Prix du billet : 1500 FCFA
+Âge : 15
+Prix du billet : 1500 FCFA
+Âge : 16
+Prix du billet : 2500 FCFA
+Âge : 17
+Prix du billet : 2500 FCFA
+Âge : 18
+Prix du billet : 2500 FCFA
+Âge : 19
+Prix du billet : 2500 FCFA
+Âge : 20
+Prix du billet : 2500 FCFA
+Nombre de billets vendus à 1500 FCFA : 5
+Nombre de billets vendus à 2500 FCFA : 5
+Recette totale : 20000 FCFA
+
+partie2
+Âge : 11 → prix : 1500 FCFA
+Âge : 12 → prix : 1500 FCFA
+Âge : 13 → prix : 1500 FCFA
+Âge : 14 → prix : 1500 FCFA
+Âge : 15 → prix : 1500 FCFA
+Âge : 16 → prix : 2500 FCFA
+Âge : 17 → prix : 2500 FCFA
+Âge : 18 → prix : 2000 FCFA
+Âge : 19 → prix : 2000 FCFA
+Âge : 20 → prix : 2000 FCFA
+Recette avec réduction : 18500 FCFA
